@@ -27,10 +27,10 @@ Here is [UC San Diego website](https://ucsd.edu/).
 
 ## My Relevant Courseworks
 <a id="my-relevant-courseworks"></a>
-* Data Structures and Algorithms
-* Discrete Math
-* 3D Computer Graphics
-* Statistics and Probability
+1. Data Structures and Algorithms
+2. Discrete Math
+3. 3D Computer Graphics
+4. Statistics and Probability
 
 ## Courses I Am Interested in Taking in the Future
 <a id="future-courseworks-i-interested"></a>
