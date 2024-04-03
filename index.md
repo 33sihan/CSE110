@@ -1,5 +1,5 @@
 # Sihan's User Page
-<img src="/images/hello.jpg" width="200" height="200">
+<img src="images/hello.jpg" width="200" height="200">
 
 > Good programmers know what to write. Great ones know what to rewrite and reuse. --- Eric S. Raymond
 
