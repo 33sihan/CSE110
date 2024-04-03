@@ -1,5 +1,5 @@
 # Sihan's User Page
-![](/images/hello.jpg)
+<img src="/images/hello.jpg" width="200" height="200">
 
 > Good programmers know what to write. Great ones know what to rewrite and reuse. --- Eric S. Raymond
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 <a id="introduction"></a>
-Hello, I'm Sihan Wang! I'm a junior major in **Math-cs** in UC San Diego.
+Hello, I'm Sihan Wang! I'm a _junior_ major in **Math-cs** from Marshall College in UC San Diego. 
 
 Here is [UC San Diego website](https://ucsd.edu/).
 
@@ -32,7 +32,7 @@ Here is [UC San Diego website](https://ucsd.edu/).
 * 3D Computer Graphics
 * Statistics and Probability
 
-## Future Courseworks I interested
+## Courses I Am Interested in Taking in the Future
 <a id="future-courseworks-i-interested"></a>
 - [ ] Principles of Computer Operating Systems
 - [ ] Components and Design Techniques for Digital Systems
@@ -41,6 +41,8 @@ Here is [UC San Diego website](https://ucsd.edu/).
 - [ ] Machine Learning
 
 ## Projects
+* Ray tracer Program
+* Memory Allocation System Development in C
 [More details about my projects](myprojects.md)
 
 Thank you!
